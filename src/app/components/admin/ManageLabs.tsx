@@ -126,7 +126,7 @@ export default function ManageLabs() {
                         <div className="flex items-center gap-2 text-xs text-gray-500 dark:text-gray-400">
                           <span className="font-semibold text-gray-700 dark:text-gray-300">Email:</span>
                           <span>{lab.coordinatorEmail}</span>
-                        </div>
+
                       </div>
                     </div>
                   </div>
